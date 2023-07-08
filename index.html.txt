@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div class="UploudFile">
+
+<div class="txtUploudFile">
+    <p>Uploud file</p>
+</div>
+
+<div class="DrogDropDoc">
+<div class="txtDrogDropDoc">
+   <p>Drog & Drop Document</p> 
+</div>
+
+<div class="txtDocDocx">
+    <p>doc, docx, pdf, txt</p>
+</div>
+
+<div class="ContainerBrowsFile">
+    
+    <img src="C:\Users\alexz\Downloads\free-icon-file-and-folder-8291136.png" alt="">
+    <div class="txtBriwseFile">
+        <p class="pbrowsfile">Browse File</p>
+
+    </div>
+</div>
+
+<div class="containerBottom">
+
+    <div class="fileName">
+<div class="txtIcon"><img src="C:\Users\alexz\Downloads\free-icon-file-6869587.png" alt=""></div>
+        <p>File name file name file name         50kb+</p>
+    </div>
+   
+    <div class="errorExportSubmit">
+        <div class="error"><p>  Error Log CSV </p> </div>
+        <div class="export"><p>  Export As CSV  </p> </div>
+        <div class="submit"><p class="psubmit">  Submit </p> </div>
+    </div>
+
+</div>
+
+</div>
+
+  
+</body>
+</html>

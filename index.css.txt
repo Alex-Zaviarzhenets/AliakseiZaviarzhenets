@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+   
+.UploudFile{
+    background-color: blue;
+    width: 95%;
+    height: 250px;
+    margin-left: 15px;
+    margin-top: 200px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin-bottom: 25px;
+   
+}
+
+.txtUploudFile{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 24px;}
+
+.DrogDropDoc{
+width: 95%;
+height: 100px;
+border: 2px dotted white;
+border-radius: 10px;
+margin-left: 15px;
+background-color: blue;
+
+
+
+
+}
+
+.txtDrogDropDoc{
+   
+    display: flex;
+  justify-content: center;
+  background-color: blue;
+ 
+ 
+}
+ 
+.txtDocDocx{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: blue;
+    
+   
+    
+}
+
+.ContainerBrowsFile{
+    width: 20%;
+    
+    margin-left: 280px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    border: 2px solid transparent;
+    border-radius: 5px;
+   
+}
+
+.containerBottom{
+    display: flex;
+    width: 100%;
+    border: 2px solid transparent;
+    margin-top: 40px;
+    display: flex;
+    background-color: blue;
+    
+}
+
+.fileName{
+    margin: 5px;
+    margin-right: 0px;
+    display: flex;
+    margin-right: 30px;
+    background-color: blue;
+    
+
+}
+.errorExportSubmit{
+    display: flex;
+    justify-content: flex-end;
+    background-color: blue;
+}
+
+.error, .export, .submit{
+    border: 2px dotted white;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+    padding-right: 8px;
+    padding-left: 8px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.submit, .pbrowsfile{
+    background-color: aquamarine;
+}
+    
+
+p{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: blue;
+}
+.psubmit{
+    background-color: aquamarine;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-color: transparent;
+    padding-left: 4px;
+    background-color: transparent;
+}
+
+.txtIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px dotted white;
+    border-radius: 5px;
+    background-color: blue;
+    width: 35px;
+    height: 35px;
+    margin-right: 3px;
+    cursor: pointer;
+}
